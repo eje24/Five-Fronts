@@ -1,0 +1,118 @@
+N=5
+Probability of assigning at least 0 troops to a front: 1.0 
+ Probability of assigning at least 1 troops to a front: 0.812 
+ Probability of assigning at least 2 troops to a front: 0.188 
+ Probability of assigning at least 3 troops to a front: 0.0 
+ Probability of assigning at least 4 troops to a front: -0.0 
+ Probability of assigning at least 5 troops to a front: 0.0 
+ N=10
+Probability of assigning at least 0 troops to a front: 1.0 
+ Probability of assigning at least 1 troops to a front: 0.7323 
+ Probability of assigning at least 2 troops to a front: 0.6251 
+ Probability of assigning at least 3 troops to a front: 0.3749 
+ Probability of assigning at least 4 troops to a front: 0.2677 
+ Probability of assigning at least 5 troops to a front: 0.0 
+ Probability of assigning at least 6 troops to a front: -0.0 
+ Probability of assigning at least 7 troops to a front: -0.0 
+ Probability of assigning at least 8 troops to a front: -0.0 
+ Probability of assigning at least 9 troops to a front: -0.0 
+ Probability of assigning at least 10 troops to a front: -0.0 
+ N=15
+Probability of assigning at least 0 troops to a front: 1.0 
+ Probability of assigning at least 1 troops to a front: 0.8106 
+ Probability of assigning at least 2 troops to a front: 0.7299 
+ Probability of assigning at least 3 troops to a front: 0.538 
+ Probability of assigning at least 4 troops to a front: 0.462 
+ Probability of assigning at least 5 troops to a front: 0.2658 
+ Probability of assigning at least 6 troops to a front: 0.1936 
+ Probability of assigning at least 7 troops to a front: 0.0 
+ Probability of assigning at least 8 troops to a front: -0.0 
+ Probability of assigning at least 9 troops to a front: -0.0 
+ Probability of assigning at least 10 troops to a front: -0.0 
+ Probability of assigning at least 11 troops to a front: -0.0 
+ Probability of assigning at least 12 troops to a front: -0.0 
+ Probability of assigning at least 13 troops to a front: -0.0 
+ Probability of assigning at least 14 troops to a front: -0.0 
+ Probability of assigning at least 15 troops to a front: -0.0 
+ N=20
+Probability of assigning at least 0 troops to a front: 1.0 
+ Probability of assigning at least 1 troops to a front: 0.8307 
+ Probability of assigning at least 2 troops to a front: 0.7914 
+ Probability of assigning at least 3 troops to a front: 0.6225 
+ Probability of assigning at least 4 troops to a front: 0.5844 
+ Probability of assigning at least 5 troops to a front: 0.4136 
+ Probability of assigning at least 6 troops to a front: 0.3756 
+ Probability of assigning at least 7 troops to a front: 0.2048 
+ Probability of assigning at least 8 troops to a front: 0.1759 
+ Probability of assigning at least 9 troops to a front: 0.001 
+ Probability of assigning at least 10 troops to a front: -0.0 
+ Probability of assigning at least 11 troops to a front: -0.0 
+ Probability of assigning at least 12 troops to a front: -0.0 
+ Probability of assigning at least 13 troops to a front: -0.0 
+ Probability of assigning at least 14 troops to a front: -0.0 
+ Probability of assigning at least 15 troops to a front: -0.0 
+ Probability of assigning at least 16 troops to a front: -0.0 
+ Probability of assigning at least 17 troops to a front: -0.0 
+ Probability of assigning at least 18 troops to a front: -0.0 
+ Probability of assigning at least 19 troops to a front: -0.0 
+ Probability of assigning at least 20 troops to a front: -0.0 
+ N=25
+Probability of assigning at least 0 troops to a front: 1.0 
+ Probability of assigning at least 1 troops to a front: 0.8775 
+ Probability of assigning at least 2 troops to a front: 0.8227 
+ Probability of assigning at least 3 troops to a front: 0.7015 
+ Probability of assigning at least 4 troops to a front: 0.6485 
+ Probability of assigning at least 5 troops to a front: 0.5247 
+ Probability of assigning at least 6 troops to a front: 0.4732 
+ Probability of assigning at least 7 troops to a front: 0.3466 
+ Probability of assigning at least 8 troops to a front: 0.2998 
+ Probability of assigning at least 9 troops to a front: 0.1721 
+ Probability of assigning at least 10 troops to a front: 0.1336 
+ Probability of assigning at least 11 troops to a front: 0.0 
+ Probability of assigning at least 12 troops to a front: -0.0 
+ Probability of assigning at least 13 troops to a front: -0.0 
+ Probability of assigning at least 14 troops to a front: -0.0 
+ Probability of assigning at least 15 troops to a front: -0.0 
+ Probability of assigning at least 16 troops to a front: -0.0 
+ Probability of assigning at least 17 troops to a front: -0.0 
+ Probability of assigning at least 18 troops to a front: -0.0 
+ Probability of assigning at least 19 troops to a front: -0.0 
+ Probability of assigning at least 20 troops to a front: -0.0 
+ Probability of assigning at least 21 troops to a front: -0.0 
+ Probability of assigning at least 22 troops to a front: -0.0 
+ Probability of assigning at least 23 troops to a front: -0.0 
+ Probability of assigning at least 24 troops to a front: -0.0 
+ Probability of assigning at least 25 troops to a front: -0.0 
+ N=30
+Probability of assigning at least 0 troops to a front: 1.0 
+ Probability of assigning at least 1 troops to a front: 0.885 
+ Probability of assigning at least 2 troops to a front: 0.8507 
+ Probability of assigning at least 3 troops to a front: 0.737 
+ Probability of assigning at least 4 troops to a front: 0.7032 
+ Probability of assigning at least 5 troops to a front: 0.5894 
+ Probability of assigning at least 6 troops to a front: 0.556 
+ Probability of assigning at least 7 troops to a front: 0.4406 
+ Probability of assigning at least 8 troops to a front: 0.4082 
+ Probability of assigning at least 9 troops to a front: 0.2925 
+ Probability of assigning at least 10 troops to a front: 0.2639 
+ Probability of assigning at least 11 troops to a front: 0.1466 
+ Probability of assigning at least 12 troops to a front: 0.1233 
+ Probability of assigning at least 13 troops to a front: 0.0037 
+ Probability of assigning at least 14 troops to a front: -0.0 
+ Probability of assigning at least 15 troops to a front: -0.0 
+ Probability of assigning at least 16 troops to a front: -0.0 
+ Probability of assigning at least 17 troops to a front: -0.0 
+ Probability of assigning at least 18 troops to a front: -0.0 
+ Probability of assigning at least 19 troops to a front: -0.0 
+ Probability of assigning at least 20 troops to a front: -0.0 
+ Probability of assigning at least 21 troops to a front: -0.0 
+ Probability of assigning at least 22 troops to a front: -0.0 
+ Probability of assigning at least 23 troops to a front: -0.0 
+ Probability of assigning at least 24 troops to a front: -0.0 
+ Probability of assigning at least 25 troops to a front: -0.0 
+ Probability of assigning at least 26 troops to a front: -0.0 
+ Probability of assigning at least 27 troops to a front: -0.0 
+ Probability of assigning at least 28 troops to a front: -0.0 
+ Probability of assigning at least 29 troops to a front: -0.0 
+ Probability of assigning at least 30 troops to a front: -0.0 
+ 
