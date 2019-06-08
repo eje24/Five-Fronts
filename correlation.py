@@ -44,7 +44,7 @@ def get_distribution(N):
 		distribution_list.append((max(0,round(temp,DIGITS_PRECISION)),partitions[i]))
 	distribution_list.sort(reverse=True)
 	for a in distribution_list:
-		print(a[1], " p= ", a[0])
+		print(a[1], " p= ", a[0],sep='')
 	return distribution_list
 
 def process_data(distribution_list,N): #returns pair_list of each two front combination mapped to its probability of occurring
@@ -132,7 +132,7 @@ def plot_any_two_ordered_pair(N):
 	pair_list=process_data(distribution_list,N)
 	plot_2D(N,pair_list,N)
 
-plot_any_two_ordered_pair(31)
+plot_any_two_ordered_pair(10)
 
 
 

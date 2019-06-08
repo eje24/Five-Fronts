@@ -105,6 +105,31 @@ def extract_three_tuples(N):
 	# 	counter=counter+1
 	# 	print(counter,". ",three[i], " p= ", threeDist[i],sep='')
 
+def extract_three_tuples_from_known(N,distribution_list):
+	three=pg.three_front_generator(N)
+	num3=len(three)
+	# print("Lenth of three: ",num3)
+	# blah=0
+	# for a in three:
+	# 	print(blah,a,sep='')
+	# 	blah=blah+1
+	threeDist=[0]*num3
+	for a in distribution_list:
+		p=a[0]
+		five=a[1]
+		for a in getFirstThree(five):
+			id=find_index(a,three)
+			threeDist[id]=threeDist[id]+p/10
+
+	response_list=[]
+	for i in range(num3):
+		response_list.append((round(threeDist[i],4),three[i]))
+	response_list.sort(reverse=True)
+	for a in response_list:
+		print(a[1]," ---> ", a[0])
+	# counter=0
+	# for i in range(num3):
+	# 	counter=counter+1
+	# 	print(counter,". ",three[i], " p= ", threeDist[i],sep='')
 
 
-extract_three_tuples(25)
