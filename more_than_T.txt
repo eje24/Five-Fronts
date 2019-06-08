@@ -1,0 +1,82 @@
+ALL PARTITIONS CONSIDERED
+Probability that >T troops are sent to a front for various N
+All partitions are considered for optimal mixed strategies
+
+
+a front for N= 5
+T= 0   -->  1.0
+T= 1   -->  1.0
+T= 2   -->  0.4
+T= 3   -->  0.0
+T= 4   -->  0.0
+
+a front for N= 10
+T= 0   -->  1.0
+T= 1   -->  0.8
+T= 2   -->  0.647
+T= 3   -->  0.4
+T= 4   -->  0.301
+T= 5   -->  0.0
+T= 6   -->  -0.0
+T= 7   -->  -0.0
+T= 8   -->  -0.0
+T= 9   -->  -0.0
+
+a front for N= 15
+T= 6   -->  0.199
+T= 7   -->  0.0
+
+a front for N= 25
+T= 10   -->  0.132
+T= 11   -->  0.0
+
+a front for N= 30
+T= 12   -->  0.121
+T= 13   -->  0.003
+
+
+ONLY "SMALL" PARTITIONS CONSIDERED
+Only partitions with maximal element at most N/2 are considered
+These partititions have never appeared with positive probabiity anyway
+
+Maximizing probability that at least T troops are sent to a front for N= 5
+T= 0   -->  1.0
+T= 1   -->  1.0
+T= 2   -->  0.4
+T= 3   -->  -0.0
+T= 4   -->  -0.0
+
+Maximizing probability that at least T troops are sent to a front for N= 10
+T= 0   -->  1.0
+T= 1   -->  0.8
+T= 2   -->  0.647
+T= 3   -->  0.4
+T= 4   -->  0.301
+T= 5   -->  0.0
+T= 6   -->  -0.0
+T= 7   -->  -0.0
+T= 8   -->  -0.0
+T= 9   -->  -0.0
+
+Maximizing probability that at least T troops are sent to a front for N= 15
+T= 6   -->  0.199
+T= 7   -->  0.0
+
+Maximizing probability that at least T troops are sent to a front for N= 20
+T= 8   -->  0.184
+T= 9   -->  0.001
+T= 10   -->  0.0
+
+Maximizing probability that at least T troops are sent to a front for N= 25
+T= 10   -->  0.132
+T= 11   -->  0.0
+
+Maximizing probability that at least T troops are sent to a front for N= 30
+T= 13   -->  0.003
+T= 14   -->  0.0
+
+Maximizing probability that at least T troops are sent to a front for N= 35
+T= 14   -->  0.104
+T= 15   -->  0.009
+T= 16   -->  0.0
+

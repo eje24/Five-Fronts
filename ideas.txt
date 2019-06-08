@@ -1,0 +1,49 @@
+focus on moments, get better data
+get data for higher N
+look into cumulants
+look into cumulant generating function
+Berstein's trick
+Markov's inequality
+Covariance matrix
+Chance of sending at least x to a front is piecewise linear?
+look at moments to determine of it is piecewise linear
+compute second moment as high as possible
+find smallest rational approximation of moments
+
+
+
+hard code Farey fraction approximator
+
+dominating strategies --> eliminating dominating strategies from pool of possibilities 
+
+find
+
+run for seven fronts and see if we get 2/7
+
+different solvers for cxvpy
+
+
+
+
+
+Possible conjectures to prove:
+-One front <=2/5
+-Two fronts <=4/5
+-If one front gets 2/5 troops, how large can the second largest be
+-Shape of 2D distribution
+-AS a function of x,y f(x,y)=chance p1 wins fronts 1 and 2 if p1 sends x to the two fronts and p2 sends y total to the two fronts
+
+
+Pure strategies that defeat uniform distribution strategy:
+	2K+1 fronts
+	K fronts 0
+	a fronts (2k-1)/2k or 3/k(2k+1)
+	K+1-a fronts 2/2k+1
+
+Add distribution pictures using random sampling technique
+Improtant feature is that its uniform in each direction
+
+
+5/30
+Integrate all auxillary functions into simulator
+	--move partitions_generator functions to simulator
